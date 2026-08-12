@@ -1,0 +1,5 @@
+1. O sistema deverá permitir cadastro de contatos. 
+2. O sistema deverá permitir login. 
+3. O sistema deverá permitir criar tarefa para si e para os outros.
+4. O sistema deverá permitir consultar informações de tarefas. 
+5. O sistema deverá possuir um chat. 
