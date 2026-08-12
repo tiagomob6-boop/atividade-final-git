@@ -1,10 +1,10 @@
- Atividade Final — Práticas DevOps em Projetos Web
+Atividade Final — Práticas DevOps em Projetos Web
 
 Nome do aluno:Tiago Makowski Spassini
 
 Nome da atividade: Praticando Branches e Merge com Git
 
-Descrição
+Descrição:
 
 Este projeto foi desenvolvido para praticar conceitos de Git e GitHub, 
 incluindo criação de branches, commits, merges,

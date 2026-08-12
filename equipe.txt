@@ -1,0 +1,7 @@
+Equipe do projeto
+
+Desenvolvedor: João Silva
+Designer: Maria 
+Analista: Pedro
+Gerente de projeto: Lucas 
+Testador: Ana 
