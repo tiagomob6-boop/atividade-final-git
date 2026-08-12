@@ -1,0 +1,9 @@
+campo para cadastrar o tempo usado para fazer a tarefa
+
+campo para as tarefas completadas
+
+Login
+
+campos para cadastrar tarefas
+
+aba para as tarefas gerais (trabalhar,cosinhar,estudar)
