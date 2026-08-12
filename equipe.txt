@@ -5,5 +5,3 @@ Designer: Maria
 Analista: Pedro
 Gerente de projeto: Lucas 
 Testador: Ana
-
-alteração teste
